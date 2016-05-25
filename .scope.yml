@@ -1,9 +1,3 @@
-customer: opensource
-system: rxjava 
-project: M0000-0000
-model: 2015
-source_dir: ./
 component_depth: 6
-database: opensource_rxjava_yml
 languages:
 - java
